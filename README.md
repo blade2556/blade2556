@@ -4,3 +4,4 @@
 
 - 🔭 I’m currently working on Quantum Circuit implementation on qiskit and pennylane.
 - 🌱 I’m currently learning OOAD, AI drawing application, game development(engine, coding).
+- Noob Hayato player.
