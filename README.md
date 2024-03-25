@@ -1,9 +1,5 @@
-### Hi there 👋
-
-<!--
-**blade2556/blade2556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h1 style="text-align:center">Bulade2556 say's hi to you👋</h1>
+![hayato](https://github.com/blade2556/blade2556/blob/main/ClassArtwork_Hayato_(Neo%2C_Male).png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
