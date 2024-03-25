@@ -1,5 +1,5 @@
 <h1 style="text-align:center">Bulade2556 say's hi to you👋</h1>
-![hayato](https://github.com/blade2556/blade2556/blob/main/ClassArtwork_Hayato_(Neo%2C_Male).png)
+![hayato](https://github.com/blade2556/blade2556/blob/57628ed5021eeadc603d12996fda7264a9f9e473/ClassArtwork_Hayato_(Neo%2C_Male).png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
